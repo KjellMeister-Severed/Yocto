@@ -15,7 +15,7 @@ export default function Vision() {
                 <p class="mb-8 text-lg font-normal text-gray-400 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">YoctoConsult will deliver the best detailled advice to his customer.
                     The name reflects the way of working and thinking.
                     Yocto is the SI prefix for 10 exponent -24,
-                    it is nowadays the lowest prefix..</p>
+                    it is nowadays the lowest prefix.</p>
                 <p className='font-bold text-white'>Mission</p>
                 <p class="mb-8 text-lg font-normal text-gray-400 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">YoctoConsult is your preferred quality consultant
                     to develop your business into an organisation

@@ -10,7 +10,7 @@ export default function About() {
                         <div className='h-20 w-20 z-10' style={{ backgroundImage: 'url("./cyc.png")', backgroundPosition: 'center', backgroundSize: 'cover' }} />
                     </div>
                 </div>
-                <h1 class="mb-4 mt-5 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl dark:text-white">About Yoctoconsult</h1>
+                <h1 class="mb-4 mt-5 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl dark:text-white">About YoctoConsult</h1>
                 <p class="mb-8 text-lg font-normal text-gray-400 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Marc Panen is the director of YoctoConsult, an independent advisory company that provides value driven career management services to companies and individuals througout Europe.</p>
                 <p class="mb-8 text-lg font-normal text-gray-400 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Relying on years of experience by exercising various management positions he has accumulated a lot of knowledge in a wide range of safety, environmental and quality systems.</p>
 
